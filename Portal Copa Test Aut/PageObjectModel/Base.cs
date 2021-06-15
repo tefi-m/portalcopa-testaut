@@ -179,6 +179,5 @@ namespace Portal_Copa_Test_Aut.PageObjectModel
         {
             return driver.Url;
         }
-
     }
 }
