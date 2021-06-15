@@ -15,9 +15,19 @@ namespace Portal_Copa_Test_Aut.PageObjectModel
     {
         public PaginaPrueba() : base()
         {
-
+            
         }
 
+        public void GoToDistribucionDeFondos()
+        {
+            //Click en opción Distribucion de Fondos
+            Click(By.XPath("/html/body/div/div/div/main/div/main/div/div[2]/div/div[1]/div/h3"));
+
+            ChromeDriver driver = GetChromeDriver();
+
+            WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(60));
+            wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath("/html/body/div/div/div/main/div/main/div/div[2]/div/div[1]/h1")));
+        }
 
     }
 }

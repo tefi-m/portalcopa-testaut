@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gcKCsJWG+w6nQNU1+3jfOrq7xWCxFOMOrdUw+u5RMVmzo3P06sY4cfeOQNgbHAqLMkQ29IEEczu56WOociebSA==",
+  "dgSpecHash": "ezuQD/uGJYBJ2EL2XNicZLsZfV7Y93gmJl8oLtvzXjEtkipZzX9iL5eZUDz6JhaJe0+f3Khx9WNAD6Yyn3VLKg==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\PortalCoparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj",
+  "projectFilePath": "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\27350997828\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\27350997828\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

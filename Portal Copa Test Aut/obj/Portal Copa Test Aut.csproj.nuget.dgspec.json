@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\PortalCoparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj": {}
+    "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\PortalCoparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj": {
+    "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\PortalCoparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj",
+        "projectUniqueName": "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj",
         "projectName": "Portal Copa Test Aut",
-        "projectPath": "C:\\Proyectos\\PortalCoparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj",
+        "projectPath": "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj",
         "packagesPath": "C:\\Users\\27350997828\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\PortalCoparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\obj\\",
+        "outputPath": "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
