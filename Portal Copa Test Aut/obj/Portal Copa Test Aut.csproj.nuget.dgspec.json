@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj": {}
+    "C:\\Proyectos\\Coparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj": {
+    "C:\\Proyectos\\Coparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Coparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj",
         "projectName": "Portal Copa Test Aut",
-        "projectPath": "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj",
-        "packagesPath": "C:\\Users\\27350997828\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\PortalCoparticipacion\\Portal_Copa_Test_Aut\\Portal Copa Test Aut\\obj\\",
+        "projectPath": "C:\\Proyectos\\Coparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\Portal Copa Test Aut.csproj",
+        "packagesPath": "C:\\Users\\20410340799\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\Coparticipacion\\Portal Copa Test Aut\\Portal Copa Test Aut\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\27350997828\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\20410340799\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -20,7 +20,7 @@
 
   <ItemGroup>
     <None Update="chromedriver\chromedriver.exe">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 
